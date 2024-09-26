@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a web developer based in Chicago, IL, USA. I specialize in building responsive web applications and have a passion for clean, user-friendly designs.
+I'm a web developer based in Chicago, IL, USA. I specialize in building responsive web applications and have a passion for clean, user-friendly designs. I currently attend DePaul University, majoring in IT with a concentration in Web Development, expected to graduate in June 2026.
 
 ## Skills
 
@@ -39,11 +39,10 @@ I'm a web developer based in Chicago, IL, USA. I specialize in building responsi
 
 ## Projects
 
-- [Personal Portfolio](https://github.com/RichardLechko/React-Resume): My web dev portfolio, going over personal aspects of my life, my education, my skills, and lots more! :star:
-- [E-Commerce Business](https://github.com/RichardLechko/superior-sphere): I created a full blown e-commerce site for a small local business called "Freedom Butchers". :star:
+- [Personal Portfolio](https://github.com/RichardLechko/React-Resume): My web dev portfolio, going over personal aspects of my life, my education, my skills, and lots more! :star: :sparkles:
+- [E-Commerce Business](https://github.com/RichardLechko/superior-sphere): I created a full blown e-commerce site for a small local business called "Freedom Butchers". :star: :shopping_cart:
 
 ## Get in Touch
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/richard-lechko/)
 - [Email](mailto:richardlechko@gmail.com)
