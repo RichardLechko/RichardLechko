@@ -1,4 +1,4 @@
-# Hi there! I'm Richard 👋
+# Hi there! I'm Richard :wave:
 
 ## About Me
 
@@ -39,8 +39,8 @@ I'm a web developer based in Chicago, IL, USA. I specialize in building responsi
 
 ## Projects
 
-- [Project 1](https://github.com/yourusername/project1): Brief description of what it does.
-- [Project 2](https://github.com/yourusername/project2): Brief description of what it does.
+- [Personal Portfolio](https://github.com/RichardLechko/React-Resume): My web dev portfolio, going over personal aspects of my life, my education, my skills, and lots more! :star:
+- [E-Commerce Business](https://github.com/RichardLechko/superior-sphere): I created a full blown e-commerce site for a small local business called "Freedom Butchers". :star:
 
 ## Get in Touch
 
