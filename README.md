@@ -4,6 +4,8 @@
 
 I'm a web developer based in Chicago, IL, USA. I specialize in building responsive web applications and have a passion for clean, user-friendly designs. I currently attend DePaul University, majoring in IT with a concentration in Web Development, expected to graduate in June 2026.
 
+![Dancing Katarina](https://imgur.com/QRUPiHQ)
+
 ## Skills
 
 ### Programming Languages
