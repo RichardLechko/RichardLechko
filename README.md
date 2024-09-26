@@ -4,10 +4,11 @@
 
 I'm a web developer based in Chicago, IL, USA. I specialize in building responsive web applications and have a passion for clean, user-friendly designs. I currently attend DePaul University, majoring in IT with a concentration in Web Development, expected to graduate in June 2026.
 
-<div style="display: flex; justify-content: space-around; gap: 10rem;">
+<div style="display: flex; justify-content: space-around;">
   <img src="https://i.imgur.com/QRUPiHQ.gif" alt="Katarina Dancing" width="100"/>
   <img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="Pikachu Running" width="100"/>
   <img src="https://media.tenor.com/Nnky6Tc67XUAAAAi/sonic-run.gif" alt="Sonic Running" width="70"/>
+  <img src="https://media1.tenor.com/m/SOC7ARPKg-gAAAAC/kirby-eat.gif" alt="Kirby Eating" width="80"/>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXE5d3Jic2l5YXo5dDJlb29lMGhndG1jYzlibW9mc3cxb3g5Zjg3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyHmZh4rmnyE0/200.webp" alt="Sailor Moon Transformation" width="100"/>
 </div>
 
