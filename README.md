@@ -4,7 +4,7 @@
 
 I'm a web developer based in Chicago, IL, USA. I specialize in building responsive web applications and have a passion for clean, user-friendly designs. I currently attend DePaul University, majoring in IT with a concentration in Web Development, expected to graduate in June 2026.
 
-<div style="image-container">
+<div style="display: flex; gap: 20px;">
   <img src="https://i.imgur.com/QRUPiHQ.gif" alt="Katarina Dancing" width="100"/>
   <img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="Pikachu Running" width="100"/>
   <img src="https://media.tenor.com/Nnky6Tc67XUAAAAi/sonic-run.gif" alt="Sonic Running" width="70"/>
@@ -12,13 +12,6 @@ I'm a web developer based in Chicago, IL, USA. I specialize in building responsi
   <img src="https://media1.tenor.com/m/OlHMWq46CtAAAAAC/serial-experiments-lain-lain.gif" alt="Serial Experiments Lain" width="100"/>
   
 </div>
-
-<style>
-.image-container {
-    display: flex;
-    gap: 10px; /* Adjust the gap here */
-}
-</style>
 
 ## Skills
 
