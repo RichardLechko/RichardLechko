@@ -7,6 +7,7 @@ I'm a web developer based in Chicago, IL, USA. I specialize in building responsi
 <div style="display: flex; justify-content: space-around;">
   <img src="https://i.imgur.com/QRUPiHQ.gif" alt="Katarina Dancing" width="100"/>
   <img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="Pikachu Running" width="100"/>
+  <img src="https://media.tenor.com/5xJjC6MPip0AAAAi/sonic-prey-sonic.gif" alt="Sonic Running" width="100"/>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXE5d3Jic2l5YXo5dDJlb29lMGhndG1jYzlibW9mc3cxb3g5Zjg3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyHmZh4rmnyE0/200.webp" alt="Sailor Moon Transformation" width="100"/>
 </div>
 
