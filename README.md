@@ -7,6 +7,7 @@ I'm a web developer based in Chicago, IL, USA. I specialize in building responsi
 <div style="display: flex; justify-content: space-around;">
   <img src="https://i.imgur.com/QRUPiHQ.gif" alt="Katarina Dancing" width="100"/>
   <img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="Pikachu Running" width="100"/>
+  <img src="https://i.imgur.com/hTGQebr.gif" alt="Sailor Moon Transformation" width="100"/>
 </div>
 
 ## Skills
