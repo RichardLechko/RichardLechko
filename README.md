@@ -9,7 +9,8 @@ I'm a web developer based in Chicago, IL, USA. I specialize in building responsi
   <img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="Pikachu Running" width="100"/>
   <img src="https://media.tenor.com/Nnky6Tc67XUAAAAi/sonic-run.gif" alt="Sonic Running" width="70"/>
   <img src="https://media1.tenor.com/m/SOC7ARPKg-gAAAAC/kirby-eat.gif" alt="Kirby Eating" width="100"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXE5d3Jic2l5YXo5dDJlb29lMGhndG1jYzlibW9mc3cxb3g5Zjg3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HyHmZh4rmnyE0/200.webp" alt="Sailor Moon Transformation" width="100"/>
+  <img src="https://literallyme.vercel.app/_next/image?url=%2Flain-opening.gif&w=1920&q=75" alt="Serial Experiments Lain" width="100"/>
+  
 </div>
 
 ## Skills
