@@ -10,6 +10,7 @@ I'm a web developer based in Chicago, IL, USA. I specialize in building responsi
   <img src="https://media.tenor.com/Nnky6Tc67XUAAAAi/sonic-run.gif" alt="Sonic Running" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media1.tenor.com/m/SOC7ARPKg-gAAAAC/kirby-eat.gif" alt="Kirby Eating" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media1.tenor.com/m/OlHMWq46CtAAAAAC/serial-experiments-lain-lain.gif" alt="Serial Experiments Lain" width="100"/>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/936064934954906584/63F2557E6350B0656DC2677F55005B885396CC38/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Yugi transforming into Yami Yugi" width="100" />
 </div>
 
 ## Skills
