@@ -13,6 +13,7 @@ I also really enjoy watching anime and playing video games, below are some retro
   <img src="https://media1.tenor.com/m/SOC7ARPKg-gAAAAC/kirby-eat.gif" alt="Kirby Eating" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media1.tenor.com/m/OlHMWq46CtAAAAAC/serial-experiments-lain-lain.gif" alt="Serial Experiments Lain" width="100"/>
   <img src="https://media1.tenor.com/m/BXc6BLC7Ii8AAAAC/pegasus-yugioh.gif" alt="Yugi vs Pegasus" width="125" />
+  <img src="https://i.pinimg.com/originals/cd/b8/95/cdb89580457caa7d13c4384a3d1a367c.gif" alt="Spike Spiegel Cowboy Bebop action GIF" width="100" />
 </div>
 
 ## Skills
