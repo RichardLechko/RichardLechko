@@ -12,7 +12,7 @@ I also really enjoy watching anime and playing video games, below are some retro
   <img src="https://media.tenor.com/Nnky6Tc67XUAAAAi/sonic-run.gif" alt="Sonic Running" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media1.tenor.com/m/SOC7ARPKg-gAAAAC/kirby-eat.gif" alt="Kirby Eating" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media1.tenor.com/m/OlHMWq46CtAAAAAC/serial-experiments-lain-lain.gif" alt="Serial Experiments Lain" width="100"/>
-  <img src="https://pa1.aminoapps.com/6350/e22e578a83766ecc08f80cd30a12e2c11903f21b_hq.gif" alt="Yugi summoning Dark Magician." width="125" height="100" />
+  <img src="https://media1.tenor.com/m/BXc6BLC7Ii8AAAAC/pegasus-yugioh.gif" alt="Yugi vs Pegasus" width="125" />
 </div>
 
 ## Skills
