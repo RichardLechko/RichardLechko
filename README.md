@@ -4,6 +4,8 @@
 
 I'm a web developer based in Chicago, IL, USA. I specialize in building responsive web applications and have a passion for clean, user-friendly designs. I currently attend DePaul University, majoring in IT with a concentration in Web Development, expected to graduate in June 2026.
 
+I also really enjoy watching anime and playing video games, below are some retro animated GIFs:
+
 <div>
   <img src="https://i.imgur.com/QRUPiHQ.gif" alt="Katarina Dancing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://media.tenor.com/fSsxftCb8w0AAAAi/pikachu-running.gif" alt="Pikachu Running" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;
