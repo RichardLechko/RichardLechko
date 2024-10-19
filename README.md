@@ -4,6 +4,12 @@
 
 I'm a web developer based in Chicago, IL, USA. I specialize in building responsive web applications and have a passion for clean, user-friendly designs. I currently attend DePaul University, majoring in IT with a concentration in Web Development, expected to graduate in June 2026.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RichardLechko/RichardLechko/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RichardLechko/RichardLechko/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RichardLechko/RichardLechko/output/github-contribution-grid-snake.svg">
+</picture>
+
 I also really enjoy watching anime and playing video games, below are some retro animated GIFs:
 
 <div>
