@@ -94,7 +94,7 @@ I'm a web developer based in Chicago, IL, USA. I specialize in building responsi
 
 ### Northern Trust x DePaul University Competition
 
-- [Forex Future View](https://github.com/RichardLechko/forex-future-view): A finance application developed for the Northern Trust x DePaul University competition, focusing on predicting the best travel dates based on FX currency exchange rates, featuring real-time analytics and customer testimonials! :star: :money_with_wings:
+- [Forex Future View](https://depaul-northern-trust-hackathon.vercel.app/): A finance application developed for the Northern Trust x DePaul University competition, focusing on predicting the best travel dates based on FX currency exchange rates, featuring real-time analytics and customer testimonials! :star: :money_with_wings:
 
 ### Other Projects
 
