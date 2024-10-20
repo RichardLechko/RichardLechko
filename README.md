@@ -1,5 +1,10 @@
 # Hi there! I'm Richard :wave:
 
+<p align="center">
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/RichardLechko/count.svg" />
+</p>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -14,11 +19,6 @@
     src="https://raw.githubusercontent.com/RichardLechko/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-<p align="center">
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/RichardLechko/count.svg" />
-</p>
 
 ## About Me
 
@@ -92,8 +92,14 @@ I'm a web developer based in Chicago, IL, USA. I specialize in building responsi
 
 ## Projects
 
-- [Personal Portfolio](https://github.com/RichardLechko/React-Resume): My web dev portfolio, going over personal aspects of my life, my education, my skills, and lots more! :star: :sparkles:
-- [E-Commerce Business](https://github.com/RichardLechko/superior-sphere): I created a full blown e-commerce site for a small local business called "Freedom Butchers". :star: :shopping_cart:
+### Northern Trust x DePaul University Competition
+
+- [Forex Future View](https://github.com/RichardLechko/forex-future-view): A finance application developed for the Northern Trust x DePaul University competition, focusing on predicting the best travel dates based on FX currency exchange rates, featuring real-time analytics and customer testimonials! :star: :money_with_wings:
+
+### Other Projects
+
+- [Personal Portfolio](https://github.com/RichardLechko/React-Resume): My web dev portfolio, showcasing personal aspects of my life, education, skills, and more! :star: :sparkles:
+- [E-Commerce Business](https://github.com/RichardLechko/superior-sphere): A full-fledged e-commerce site developed for a small local business called "Freedom Butchers". :star: :shopping_cart:
 
 ## Get in Touch
 
