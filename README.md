@@ -44,6 +44,8 @@ I'm a web developer based in Chicago, IL, USA. I specialize in building responsi
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![ShadCN](https://img.shields.io/badge/-ShadCN-black?style=flat-square)
 
 ### Backend Development
 
@@ -61,6 +63,36 @@ I'm a web developer based in Chicago, IL, USA. I specialize in building responsi
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![Qwik](https://img.shields.io/badge/-Qwik-black?style=flat-square&logo=qwik)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
+#### Version Control
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+#### Testing Frameworks
+
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
+![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
+
+#### API & Database Technologies
+
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+#### DevOps Tools
+
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+
+#### Cloud Platforms
+
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
+
+#### Others
+
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
 
 ## Projects
 
