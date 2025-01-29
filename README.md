@@ -1,19 +1,42 @@
 # Hi there! I'm Richard 👋
 
 ## About Me
-I'm a web developer based in Chicago, IL, USA. I specialize in building responsive web applications and have a passion for clean, user-friendly designs. I currently attend DePaul University, majoring in IT with a concentration in Web Development, expected to graduate in June 2026.
+I'm a frontend engineer based in Chicago, IL, USA. I currently attend DePaul University, majoring in IT with a concentration in Web Development, expected to graduate in June 2026.
 
-## Skills
+## Technical Skills
 
-### Core Technologies
-- Frontend: JavaScript, TypeScript, React, HTML/CSS, Tailwind CSS
-- Backend: Node.js, Express, Python, Java
-- Databases: PostgreSQL, MongoDB
-- Cloud & DevOps: AWS, Azure, Docker, Git
+### Frontend
+- Languages: HTML, CSS, JavaScript, TypeScript
+- Frameworks: React, Next.js, Angular, Astro
+- State Management: Redux
+- Styling: Tailwind CSS, SCSS
+- Design: Figma
 
-### Testing & Tools
-- Testing: Jest, Cypress
-- Tools: Figma, Webpack, Vite
+### Backend
+- Node.js (Express.js)
+- Python (Flask)
+- Go
+- REST APIs
+
+### Databases
+- SQL (PostgreSQL, MySQL)
+- NoSQL (MongoDB)
+- Supabase
+
+### Cloud & DevOps
+- AWS (EC2, Amplify, S3, Route 53)
+- Vercel
+- Docker
+- Git
+- Linux
+- Apache/NGINX
+- Caddy
+- tmux
+- Oh My Zsh
+
+### Testing
+- Cypress
+- Jest
 
 ## Projects
 
