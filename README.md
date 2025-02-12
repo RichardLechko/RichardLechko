@@ -1,7 +1,7 @@
 # Hi there! I'm Richard 👋
 
 ## About Me
-I'm a frontend engineer based in Chicago, IL, USA. I currently attend DePaul University, majoring in IT with a concentration in Web Development, expected to graduate in June 2026. i specialize in making web apps.
+I'm a frontend engineer based in Chicago, IL, USA. I currently attend DePaul University, majoring in IT with a concentration in Web Development, expected to graduate in June 2026. I specialize in making web apps.
 
 ## Technical Skills
 
