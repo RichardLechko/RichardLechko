@@ -40,8 +40,8 @@ I'm a frontend engineer based in Chicago, IL, USA. I currently attend DePaul Uni
 
 ## Projects
 
-### Northern Trust x DePaul University Competition
-[Forex Future View](https://depaul-northern-trust-hackathon.vercel.app/) - A finance application predicting optimal travel dates based on FX currency exchange rates.
+### Northern Trust x DePaul University Competition - 3rd Place
+[Forex Future View](https://depaul-northern-trust-hackathon.vercel.app/) - A finance application predicting optimal travel dates based on FX currency exchange rates. 
 
 ### Other Projects
 - [Personal Portfolio](https://github.com/RichardLechko/React-Resume) - My web development portfolio
