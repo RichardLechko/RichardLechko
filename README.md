@@ -38,15 +38,6 @@ I'm a frontend engineer based in Chicago, IL, USA. I currently attend DePaul Uni
 - Cypress
 - Jest
 
-## Projects
-
-### Northern Trust x DePaul University Competition - 3rd Place
-[Forex Future View](https://depaul-northern-trust-hackathon.vercel.app/) - A finance application predicting optimal travel dates based on FX currency exchange rates. 
-
-### Other Projects
-- [Personal Portfolio](https://github.com/RichardLechko/React-Resume) - My web development portfolio
-- [E-Commerce Business](https://github.com/RichardLechko/superior-sphere) - Full-stack e-commerce site for "Freedom Butchers"
-
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/richard-lechko/)
 - [Email](mailto:richardlechko@gmail.com)
